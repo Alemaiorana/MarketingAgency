@@ -16,7 +16,7 @@ export default {
       },
       container: {
         center: true,
-        padding: '100px',
+        padding: '24px',
         screens: {
           sm: '100%',
           md: '100%',

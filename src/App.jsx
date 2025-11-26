@@ -4,6 +4,7 @@ import Features from './components/Features'
 import InfoSection from './components/InfoSection'
 import Network from './components/Network'
 import Sponsors from './components/Sponsors'
+import VideoSection from './components/VideoSection'
 import Footer from './components/Footer'
 
 function App() {
@@ -14,8 +15,9 @@ function App() {
         <Hero />
         <Features />
         <InfoSection />
-        <Network />
+        <VideoSection />
         <Sponsors />
+        <Network />
       </main>
       <Footer />
     </div>
